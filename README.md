@@ -193,25 +193,40 @@ The Power BI dashboard provides interactive reporting and visualization for:
 
 ---
 
-## Project Demo Video
+## Project Demo Videos
 
-A complete walkthrough of the Gaming Retention Analytics Project is available on YouTube:
+### Python & MySQL Analytics Workflow
 
 https://youtu.be/b0_FT7UegdE
 
-### Video Covers
+This video demonstrates the end-to-end analytics workflow, including:
 
-* Dataset Overview
-* Data Cleaning and Transformation
+* Python Data Cleaning
+* Pandas Data Processing
 * MySQL Database Loading
 * SQL KPI Analysis
+* Reporting View Creation
 * DAU Analysis
 * MAU Analysis
 * New Player Registration Analysis
 * Day 1 Retention Analysis
 * Cohort Analysis
-* Power BI Dashboard Walkthrough
-* Business Insights
+
+### Power BI Dashboard Demo
+
+https://youtu.be/95fbNeCtw8Y
+
+This video showcases the final Power BI dashboard, including:
+
+* Gaming Analytics Dashboard
+* KPI Visualizations
+* Daily Active Users (DAU)
+* Monthly Active Users (MAU)
+* New Player Registrations
+* Retention Metrics
+* Cohort Retention Dashboard
+* Interactive Reporting Features
+
 
 ---
 
